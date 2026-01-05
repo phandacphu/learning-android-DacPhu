@@ -19,6 +19,6 @@ fun bai2(){
 
 
 fun main() {
-//    bai1()
+    bai1()
     bai2()
 }
