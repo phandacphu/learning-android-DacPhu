@@ -1,4 +1,4 @@
-data class Student(
+/*data class Student(
     var id: Int,
     val name: String,
     val score: Int
@@ -71,4 +71,4 @@ fun main(){
 //    cau4(students)
     cau5(newstudent)
 
-}
+}*/

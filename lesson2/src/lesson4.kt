@@ -1,4 +1,4 @@
-//bài 1
+/*//bài 1
 fun post1() {
     val name: String? = "phu"
     println(if(name != null) "xin chao $name"  else "xin chao khach" )
@@ -172,4 +172,4 @@ fun main() {
 //    bai11(oders)
 
 
-}
+}*/
